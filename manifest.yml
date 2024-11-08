@@ -1,0 +1,14 @@
+modules:
+  macro:
+    - key: forge-r3f-template
+      resource: main
+      title: forge-r3f-template
+      description: Template version 1
+      viewportSize: large
+resources:
+  - key: main
+    path: build
+app:
+  runtime:
+    name: nodejs20.x
+  id: ari:cloud:ecosystem::app/b4da3e9b-e112-4c1e-824b-713b0f2e47df
