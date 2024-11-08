@@ -22,6 +22,11 @@ npm install
 npm run build
 ```
 
+- Register the app under the logged in user,updating the manifest with a new `app: id:`
+```
+forge register forge-r3f-template
+```
+
 - Deploy your app by running:
 ```
 forge deploy

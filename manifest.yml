@@ -11,4 +11,4 @@ resources:
 app:
   runtime:
     name: nodejs20.x
-  id: ari:cloud:ecosystem::app/b4da3e9b-e112-4c1e-824b-713b0f2e47df
+  id: ari:cloud:ecosystem::app/<Your APP ID>
